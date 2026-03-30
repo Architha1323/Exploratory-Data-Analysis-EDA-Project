@@ -33,3 +33,7 @@ Task3/
 ## Outcome
 - Identified patterns and trends
 - Found relationships between variables
+=======
+# Exploratory-Data-Analysis-EDA-Project
+Analyze a dataset to uncover patterns and trends.  Key Features: Use statistical summaries and visualizations Identify correlations and key influencing factors Present insights in a structured report
+>>>>>>> c8f67237e640e5cbe29487511e1996983f1932ab
